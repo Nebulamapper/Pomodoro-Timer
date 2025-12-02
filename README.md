@@ -34,3 +34,12 @@ This app provides:
 - Tkinter (built-in GUI library)
 
 <img width="468" height="470" alt="image" src="https://github.com/user-attachments/assets/16dc327d-648b-423f-b18b-d4131501d88d" />
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you’d like to propose major changes, please open an issue first.
+
+📜 License
+
+This project is licensed under the MIT License.
