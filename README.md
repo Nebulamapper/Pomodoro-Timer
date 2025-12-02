@@ -5,9 +5,9 @@ The Pomodoro Technique is a productivity method that breaks work into intervals 
 
 This app provides:
 
--A clean GUI <br>
--Start / Reset controls  <br>
--Automatic switching between work & break sessions  <br>
+- A clean GUI <br>
+- Start / Reset controls  <br>
+- Automatic switching between work & break sessions  <br>
 
 🚀 Features
 
